@@ -1,2 +1,3 @@
 # synf-mobile
-Mobile interface for sync
+Mobile interface for synf in react-native
+
