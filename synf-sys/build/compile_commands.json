@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/nasr/synf/synf-sys/build",
+  "command": "/usr/bin/cc  -I/Users/nasr/synf/synf-sys/source/lib/osx  -arch arm64 -o CMakeFiles/main.dir/source/main.c.o -c /Users/nasr/synf/synf-sys/source/main.c",
+  "file": "/Users/nasr/synf/synf-sys/source/main.c",
+  "output": "CMakeFiles/main.dir/source/main.c.o"
+},
+{
+  "directory": "/Users/nasr/synf/synf-sys/build",
+  "command": "/usr/bin/cc  -I/Users/nasr/synf/synf-sys/source/lib/osx  -arch arm64 -o CMakeFiles/main.dir/source/lib/osx/cpu.c.o -c /Users/nasr/synf/synf-sys/source/lib/osx/cpu.c",
+  "file": "/Users/nasr/synf/synf-sys/source/lib/osx/cpu.c",
+  "output": "CMakeFiles/main.dir/source/lib/osx/cpu.c.o"
+}
+]
